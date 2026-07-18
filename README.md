@@ -4,10 +4,6 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/laynes-echavez">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F4E8C&center=true&vCenter=true&width=600&lines=Ingeniero+de+Sistemas+Computacionales;Data+Analyst+%7C+ETL+%7C+Python+%2B+SQL+%2B+Power+BI;Construyendo+pipelines+de+datos+de+extremo+a+extremo" alt="Typing SVG" />
-</a>
-
 </div>
 
 ## ¡Hola! Soy Arjay Laynes 👋

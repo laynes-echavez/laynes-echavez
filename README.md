@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Banner linkedin.png" width="100%" alt="Banner"/>
+<img src="./Banner Linkedin.png" width="100%" alt="Banner"/>
 
 <br/>
 
@@ -46,25 +46,11 @@ Practicante de Análisis de Datos en **Banco de la Nación**, donde diseño pipe
 
 </div>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=laynes-echavez&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
-
-</div>
-
 ## 📌 Experiencia destacada
 
 - Automatización de extracción, limpieza y carga de datos con Python y Pandas hacia SQL Server, eliminando procesamiento manual.
 - Dashboard en Power BI para monitoreo en tiempo real de transacciones bancarias y corresponsalía.
 - Prototipos funcionales en Flask adoptados como solución interna y usados como especificación técnica por el equipo de TI.
-
-## 💬 Frase del día
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
-
-</div>
 
 ## 📫 Contacto
 
@@ -75,8 +61,3 @@ Practicante de Análisis de Datos en **Banco de la Nación**, donde diseño pipe
 
 </div>
 
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=laynes-echavez&color=1f4e8c&style=flat&label=Visitas+al+perfil)
-
-</div>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4e8c,100:4a8bbf&height=180&section=header&text=Arjay%20Laynes&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20ETL%20%26%20BI&descSize=18&descAlignY=58" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4e8c,100:4a8bbf&height=180&section=header&text=Arjay%20Laynes&fontSize=45&fontColor=ffffff&desc=Data%20Analyst%20|%20ETL%20%26%20BI&descSize=18&descAlignY=58" width="100%"/>
 
 </div>
 
@@ -31,6 +31,15 @@ Practicante de Análisis de Datos en **Banco de la Nación**, donde diseño pipe
 
 </div>
 
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=laynes-echavez&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laynes-echavez&layout=compact&hide_border=true&theme=default" />
+
+</div>
+
 ## 📌 Experiencia destacada
 
 - Automatización de extracción, limpieza y carga de datos con Python y Pandas hacia SQL Server, eliminando procesamiento manual.
@@ -48,6 +57,6 @@ Practicante de Análisis de Datos en **Banco de la Nación**, donde diseño pipe
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4e8c,100:4a8bbf&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4e8c,100:4a8bbf&height=100&section=footer" width="100%"/>
 
 </div>

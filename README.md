@@ -1,4 +1,10 @@
-# ¡Hola! Soy Arjay Laynes 👋
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4e8c,100:4a8bbf&height=180&section=header&text=Arjay%20Laynes&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20ETL%20%26%20BI&descSize=18&descAlignY=58" />
+
+</div>
+
+## ¡Hola! Soy Arjay Laynes 👋
 
 Ingeniero de Sistemas Computacionales enfocado en **Analítica e Ingeniería de Datos**. Construyo pipelines ETL, modelo bases de datos y desarrollo dashboards que sustentan decisiones operativas en el sector bancario.
 
@@ -8,15 +14,22 @@ Practicante de Análisis de Datos en **Banco de la Nación**, donde diseño pipe
 
 ## 🛠️ Stack técnico
 
-**Lenguajes:** Python (Pandas) · SQL · Java · JavaScript
+<div align="center">
 
-**Datos y ETL:** SQL Server · diseño de pipelines · limpieza y modelado de datos · análisis exploratorio
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
 
-**BI y visualización:** Power BI · Excel · Google Sheets
-
-**Prototipado:** Flask · Google Apps Script · HTML/CSS
-
-**Herramientas:** Git · GitHub · Postman · Miro · Figma · Canva
+</div>
 
 ## 📌 Experiencia destacada
 
@@ -26,4 +39,15 @@ Practicante de Análisis de Datos en **Banco de la Nación**, donde diseño pipe
 
 ## 📫 Contacto
 
-[LinkedIn](https://linkedin.com/in/laynes-echavez) · laynes.echavez@outlook.com
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/laynes-echavez)
+[![Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:laynes.echavez@outlook.com)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4e8c,100:4a8bbf&height=100&section=footer" />
+
+</div>

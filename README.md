@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="./Banner Linkedin.png" width="100%" alt="Banner"/>
+<img src="./Banner linkedin.png" width="100%" alt="Banner"/>
+
+<br/>
+
+<a href="https://linkedin.com/in/laynes-echavez">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F4E8C&center=true&vCenter=true&width=600&lines=Ingeniero+de+Sistemas+Computacionales;Data+Analyst+%7C+ETL+%7C+Python+%2B+SQL+%2B+Power+BI;Construyendo+pipelines+de+datos+de+extremo+a+extremo" alt="Typing SVG" />
+</a>
 
 </div>
 
@@ -36,7 +42,13 @@ Practicante de Análisis de Datos en **Banco de la Nación**, donde diseño pipe
 <div align="center">
 
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=laynes-echavez&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=laynes-echavez&layout=compact&hide_border=true&theme=default" alt="Top Languages"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=laynes-echavez&layout=compact&hide_border=true&theme=default&count_private=true" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=laynes-echavez&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
 
 </div>
 
@@ -46,11 +58,25 @@ Practicante de Análisis de Datos en **Banco de la Nación**, donde diseño pipe
 - Dashboard en Power BI para monitoreo en tiempo real de transacciones bancarias y corresponsalía.
 - Prototipos funcionales en Flask adoptados como solución interna y usados como especificación técnica por el equipo de TI.
 
+## 💬 Frase del día
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
+
+</div>
+
 ## 📫 Contacto
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/laynes-echavez)
 [![Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:laynes.echavez@outlook.com)
+
+</div>
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=laynes-echavez&color=1f4e8c&style=flat&label=Visitas+al+perfil)
 
 </div>

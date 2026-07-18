@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4e8c,100:4a8bbf&height=180&section=header&text=Arjay%20Laynes&fontSize=45&fontColor=ffffff&desc=Data%20Analyst%20|%20ETL%20%26%20BI&descSize=18&descAlignY=58" width="100%"/>
+<img src="./banner.png" width="100%" alt="Banner"/>
 
 </div>
 
@@ -35,8 +35,8 @@ Practicante de Análisis de Datos en **Banco de la Nación**, donde diseño pipe
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=laynes-echavez&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laynes-echavez&layout=compact&hide_border=true&theme=default" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=laynes-echavez&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=laynes-echavez&layout=compact&hide_border=true&theme=default" alt="Top Languages"/>
 
 </div>
 
@@ -52,11 +52,5 @@ Practicante de Análisis de Datos en **Banco de la Nación**, donde diseño pipe
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/laynes-echavez)
 [![Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:laynes.echavez@outlook.com)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4e8c,100:4a8bbf&height=100&section=footer" width="100%"/>
 
 </div>
